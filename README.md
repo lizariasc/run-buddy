@@ -14,3 +14,6 @@ https://lizariasc.github.io/run-buddy/
 Made with ❤️ by Liz Arias
 
 ### ©️2019 Run Buddy, Inc 
+
+## Mock up of the Website
+![Mock up](./assets/images/screenshot.png "Mock up")
